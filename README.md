@@ -1,7 +1,7 @@
-** Question 1: How can I measure the performance of my model?
+# Question 1: How can I measure the performance of my model?
 ## Evaluating the Performance of Machine Learning Models
 
-Measuring the performance of a machine learning model is crucial for understanding its effectiveness in solving a particular problem. The choice of performance metrics depends on the type of problem you are trying to address. Here are some commonly used metrics:
+Measuring the performance of a machine learning model is crucial for understanding its effectiveness in solving a particular problem. The choice of performance metrics depends on the type of problem we are trying to address. Here are some commonly used metrics:
 
 1. **Classification Problems**:
    - Accuracy
@@ -16,18 +16,18 @@ Measuring the performance of a machine learning model is crucial for understandi
    - Root Mean Squared Error (RMSE)
    - R-Squared
 
-In addition to these standard metrics, it's essential to evaluate your model's performance on different subsets of your data, known as data slices. This helps ensure that your model performs well across all segments of your data and helps remove bias.
+In addition to these standard metrics, it's essential to evaluate our model's performance on different subsets of our data, known as data slices. This helps ensure that our model performs well across all segments of our data and helps remove bias.
 
-Furthermore, real-world impact metrics can be defined to measure how changes in your model affect user experience or other real-world factors.
+Furthermore, real-world impact metrics can be defined to measure how changes in our model affect user experience or other real-world factors.
 
-The selection of the appropriate metric(s) depends on your specific problem and the business context. For instance, in some cases, precision (avoiding false positives) might be more important than recall (finding all the positives), or vice versa.
+The selection of the appropriate metric(s) depends on our specific problem and the business context. For instance, in some cases, precision (avoiding false positives) might be more important than recall (finding all the positives), or vice versa.
 
-Lastly, continuous monitoring of your model's performance over time is crucial, as data distribution and performance can shift. This helps in identifying any degradation in the model's performance and taking necessary actions, such as re-training the model.
+Lastly, continuous monitoring of our model's performance over time is crucial, as data distribution and performance can shift. This helps in identifying any degradation in the model's performance and taking necessary actions, such as re-training the model.
 
 
 ## ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**Question 2: What are: Accuracy, Confusion Matrix, Precision, Recall & F1 Score, ROC & AUC. Log Loss?
+# Question 2: What are: Accuracy, Confusion Matrix, Precision, Recall & F1 Score, ROC & AUC. Log Loss?
 ## Understanding Model Performance Metrics
 
 Measuring the performance of a machine learning model is crucial for assessing its effectiveness and suitability for solving a particular problem. Here are some common metrics and techniques used to evaluate model performance:
