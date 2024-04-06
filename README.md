@@ -1,3 +1,22 @@
+# Machine Learning Models for Medical Diagnosis
+
+This GitHub repository contains Python code implementing two machine learning models for medical diagnosis tasks:
+
+1. **Logistic Regression for Fertility Prediction**
+   - Dataset: Fertility dataset
+   - Description: This code implements logistic regression for predicting fertility based on various features. It includes data preprocessing, model training, evaluation metrics calculation, and visualization of results.
+
+2. **Naive Bayes for Breast Cancer Diagnosis**
+   - Dataset: Breast Cancer dataset
+   - Description: The code includes a custom implementation of Gaussian Naive Bayes and Categorical Naive Bayes algorithms for breast cancer diagnosis. It covers data preprocessing, model building, evaluation metrics computation, and comparison with scikit-learn implementations.
+
+Both implementations come with detailed comments, explanations of key functions, and visualization of evaluation metrics for comprehensive model performance analysis.
+
+## Contents:
+- `[Prajwol Tiwari] MLF_LogisticRegression_fromScratch`: Jupyter Notebook containing logistic regression code for fertility prediction.
+- `[Prajwol Tiwari] NaiveBayes`: Jupyter Notebook with custom naive Bayes implementations for breast cancer diagnosis.
+
+## --------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Question 1: How can I measure the performance of my model?
 ## Evaluating the Performance of Machine Learning Models
 
